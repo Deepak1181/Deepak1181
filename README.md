@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋👏नमस्ते, I'm Deepak</h1>
 <h3 align="center">Analytical and detail-oriented aspiring Full Stack Web Developer. Capable of writing production-ready code using MERN stack. Passionate about coding and intensely interested in working in a product-based company.</h3>
 <img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
-<h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkp041297&label=Profile%20views&color=0e75b6&style=flat" alt="dkp041297" /> </p>
 
