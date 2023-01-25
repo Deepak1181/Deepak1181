@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Sparta](https://github.com/gaurav78528/gray-system-3325)
 
-- 👨‍💻 All of my projects are available at [https://github.com/dkp041297](https://github.com/dkp041297)
+- 👨‍💻 All of my projects are available at [https://github.com/deepak1181]https://github.com/deepak1181)
 
 - 💬 Ask me about **React,JavaScript and DSA**
 
