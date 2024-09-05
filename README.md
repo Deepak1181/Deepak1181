@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋👏नमस्ते, I'm Deepak</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center">Analytical and detail-oriented aspiring Full Stack Web Developer. Capable of writing production-ready code using MERN stack. Passionate about coding and intensely interested in working in a product-based company.</h3>
+<h3 align="center">Experienced in HTML, CSS, JavaScript, React.js, Redux.js, TypeScript, Node.js, Express.js, MongoDB, and OpenAI, with a strong focus on delivering exceptional digital experiences. Thrives in collaborative and interdisciplinary teams, consistently executing goal-oriented projects that enhance user experience. Proficient in agile methodologies and project management, contributing to successful and impactful outcomes. A motivated, skilled, and team-oriented developer, well-suited for any software development team striving for excellence.</h3>
 <img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />7
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak1181&label=Profile%20views&color=0e75b6&style=flat" alt="deepak1181" /> </p>
